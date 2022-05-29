@@ -9,5 +9,5 @@ If you want to change the watermark, go Resources\Images\ , and paste your water
 3rd step. Click on "CHANGE" button and choose you output directory. 
 Last step - click "START" 
 You'll find your finished file where you have chosed your output directory. However, if you choose the same output directory as input directory, it will replace the old file with the new one.
-
-
+It can also process a lot of files in one click. If there is a lot of images in process, it shows how many of them are left.
+![batch](https://user-images.githubusercontent.com/101730480/170881886-7ad4f99b-8cff-4946-9790-964315468818.PNG)
